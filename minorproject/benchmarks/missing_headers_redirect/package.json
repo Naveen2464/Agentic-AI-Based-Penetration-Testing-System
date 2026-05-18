@@ -1,0 +1,9 @@
+{
+  "name": "missing-headers-redirect-benchmark",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Intentionally vulnerable local benchmark for missing security headers and open redirect detection.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
